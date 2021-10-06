@@ -1,8 +1,5 @@
 /*
-3
-1	@@*
-2	@*@*   2*(h-1)-1
-3	*@@@*  2*(h-1)-1
+ksjhdajkdksajdshajg
 */
 #include<stdio.h>
 int main()
