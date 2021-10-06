@@ -18,4 +18,7 @@ int main()
 	cin>>b>>a;
 	cout<<" a="<<a<<" b="<<b;
 	return 0;
-} 
+}
+//¿¿xiaoweix¿¿¿¿¿¿¿¿¿ ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿ ¿¿¿
+
+ 
